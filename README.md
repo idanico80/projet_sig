@@ -1,6 +1,7 @@
 # projet_sig
 Plateforme d’analyse géospatiale basée sur Python et JupyterLab pour le traitement des données satellitaires (NDVI, LULC, inondations, carbone) au Burkina Faso.
 🌍 Projet SIG : Analyse Géospatiale et Télédétection Appliquée au Burkina Faso
+
 🧭 Contexte
 
 Dans un contexte marqué par les changements climatiques et la pression anthropique sur les ressources naturelles, l’analyse géospatiale constitue un outil essentiel pour le suivi environnemental et l’aide à la décision. Ce projet s’inscrit dans une démarche scientifique visant à exploiter les données satellitaires pour caractériser les dynamiques spatio-temporelles au Burkina Faso.
